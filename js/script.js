@@ -1,1 +1,1 @@
-script.js
+console.log("this works!");
